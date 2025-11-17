@@ -14,7 +14,7 @@ Design a system to allow students to register, take exams online, and view resul
 **Use Case Diagram:**
 
 
-<img width="1239" height="1018" alt="image" src="https://github.com/user-attachments/assets/c6f3af8f-d2e8-4bfb-a34e-0f078a8f1fba" />
+<img width="1015" height="1015" alt="image" src="https://github.com/user-attachments/assets/7bbf6429-f17e-473d-99e5-c5774c320d51" />
 
 
 
